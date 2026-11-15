@@ -1,0 +1,23 @@
+# Virtual environments
+venv/
+.venv/
+env/
+test_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+
+# Datasets
+wholesale-customers.csv
+creditcard.csv
+
+# Temporary files
+*.tmp
+.DS_Store
